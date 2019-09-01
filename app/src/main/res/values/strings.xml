@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AOAIMC</string>
+    <string name="title">Calculadora de IMC.</string>
+    <string name="name">Nombre</string>
+    <string name="weight">Peso (km)</string>
+    <string name="height">Altura (cm)</string>
+    <string name="label"> tu IMC es: </string>
+    <string name="button">Calcular</string>
+
+    <string name="err_name">Ingresa tu nombre.</string>
+    <string name="err_weight">Ingresa tu Peso.</string>
+    <string name="err_height">Ingresa tu Altura.</string>
+    <string name="err_imc">Ocurrio un error al calcular tu IMC, revisa los datos ingresados.</string>
+</resources>
