@@ -2,7 +2,7 @@
     <string name="app_name">AOAIMC</string>
     <string name="title">Calculadora de IMC.</string>
     <string name="name">Nombre</string>
-    <string name="weight">Peso (km)</string>
+    <string name="weight">Peso (kg)</string>
     <string name="height">Altura (cm)</string>
     <string name="label"> tu IMC es: </string>
     <string name="button">Calcular</string>
